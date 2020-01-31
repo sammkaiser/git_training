@@ -1,9 +1,6 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-<<<<<<< HEAD
 Help I'm trapped in a computer
 Tell my mother I love her
 I had such a beautiful life on the outside
 I wonder what things are like in the cloud?
-=======
 Now I am stuck in the cloud!
->>>>>>> acdefb8414e0974e4c2397b753c9a19ecd2be112
